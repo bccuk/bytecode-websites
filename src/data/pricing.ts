@@ -223,7 +223,7 @@ export const pricing = {
       {
         name: 'GNG Cricket Club',
         logo: 'images/portfolio/gng-logo.webp',
-        href: 'https://gngcc.uk',
+        href: 'https://gngcc.co.uk',
         tag: 'Client · website + 2026 season sponsor',
         body: "We built their website and back them as 2026 season sponsor. Grassroots cricket is close to our hearts.",
       },
