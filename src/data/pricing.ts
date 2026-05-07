@@ -5,18 +5,20 @@
 
 export const pricing = {
   brand: {
+    studio: 'Bytecode Studio',
     name: 'Bytecode Consulting Limited',
     shortName: 'Bytecode Consulting',
-    tagline: 'AI & software studio · Dartford',
+    tagline: 'Smart websites for high-street businesses · By Bytecode Consulting',
+    parentTagline: 'By Bytecode Consulting',
     domain: 'bytecodeconsulting.com',
     email: 'admin@bytecodeconsulting.com',
     phoneHref: 'tel:+447990000000', // placeholder — replace with real
   },
 
   hero: {
-    eyebrow: 'Built in Dartford',
+    eyebrow: 'Bytecode Studio · Dartford',
     headline: 'A proper website for your business —\nwithout the agency price tag.',
-    sub: 'Premium small-business websites, built to order in 48 hours. Founder pricing for the first five customers.',
+    sub: 'Premium websites for high-street businesses and small UK trades — built to order in 48 hours. Founder pricing for the first five customers.',
     priceFrom: { setup: 99, monthly: 19 },
     primaryCta: 'Get started',
     secondaryCta: 'See a live example',
@@ -25,7 +27,7 @@ export const pricing = {
 
   trust: {
     location: 'Dartford, Kent',
-    line: "We're a new local AI & software studio. Built and supported within reach — happy to meet for a coffee.",
+    line: "Bytecode Studio is a new local web studio. Built and supported within reach — happy to meet for a coffee.",
   },
 
   audiences: [
@@ -202,9 +204,9 @@ export const pricing = {
 
   // Bytecode Consulting showcase — what we do beyond small business websites
   bytecode: {
-    eyebrow: 'About the studio',
+    eyebrow: 'Behind the studio',
     heading: 'More than websites.',
-    intro: "Bytecode Consulting is a Dartford-based AI & software studio. Small-business websites are one of several things we ship — alongside our own AI products and platforms for grassroots sports clubs.",
+    intro: "Bytecode Studio is part of Bytecode Consulting Limited — a Dartford-based AI & software studio. Small-business websites sit alongside our enterprise AI products and platforms for grassroots sports clubs.",
     portfolio: [
       {
         name: 'GabbleAI',
