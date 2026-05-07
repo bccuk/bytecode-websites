@@ -206,7 +206,7 @@ export const pricing = {
   bytecode: {
     eyebrow: 'Behind the studio',
     heading: 'More than websites.',
-    intro: "Bytecode Studio is part of Bytecode Consulting Limited — a Dartford-based AI & software studio. Small-business websites sit alongside our enterprise AI products and platforms for grassroots sports clubs.",
+    intro: "Bytecode Studio is part of Bytecode Consulting Limited — a Dartford-based AI & software company. Small-business websites sit alongside our enterprise AI products and platforms for grassroots sports clubs.",
     portfolio: [
       {
         name: 'GabbleAI',
