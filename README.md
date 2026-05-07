@@ -1,6 +1,6 @@
 # Bytecode Websites — pricing & lead-gen site
 
-> Sales site for **Bytecode Consulting Limited**'s small-business website service. Live at **https://websites.bytecodeconsulting.com/**.
+> Sales site for **Bytecode Consulting Limited**'s small-business website service. Live at **https://website.bytecodeconsulting.com/**.
 
 Three pages:
 
@@ -31,7 +31,7 @@ npm run dev   # http://localhost:4321
 - `src/data/pricing.ts` — single source of truth for pricing, FAQs, portfolio cards, all copy
 - `src/pages/*.astro` — three pages, each fully self-contained
 - `src/styles/global.css` — design tokens (cream / charcoal / brass) + utility classes
-- `public/CNAME` — `websites.bytecodeconsulting.com`
+- `public/CNAME` — `website.bytecodeconsulting.com`
 - `public/images/portfolio/` — Bytecode product logos (GabbleAI, ClubOS, GNG)
 
 ## Deploy
