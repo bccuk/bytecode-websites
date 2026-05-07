@@ -209,14 +209,14 @@ export const pricing = {
       {
         name: 'GabbleAI',
         logo: 'images/portfolio/gabbleai-logo.webp',
-        href: 'https://bytecodeconsulting.com/products/gabbleai',
+        href: 'https://gabbleai.com',
         tag: 'Our product · launched April 2026',
         body: 'AI-powered GCSE speaking practice for French, Spanish, German and Chinese — instant feedback and progress tracking for students.',
       },
       {
         name: 'ClubOS',
         logo: 'images/portfolio/clubos-logo-dark.svg',
-        href: 'https://bytecodeconsulting.com/products/clubos',
+        href: 'https://platform.cluboss.co.uk',
         tag: 'Our product · launching June 2026',
         body: 'Multi-sport, multi-tenant operating platform for grassroots clubs — fixtures, members, payments, comms, all in one place.',
       },
