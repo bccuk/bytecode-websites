@@ -1,7 +1,7 @@
-// Sales / pricing page content for the small-business website service.
-// Lives separately from site.ts (which is Fade & Trim's customer data).
-// When this page is extracted to its own repo at websites.bytecodeconsulting.com,
-// this file moves with it.
+// Sales / pricing page content for Bytecode Studio.
+// Now lives in its own repo at website.bytecodeconsulting.com — separate
+// from the sample/customer barbershop site (currently The Cut Co.) at
+// barbers.bytecodeconsulting.com.
 
 export const pricing = {
   brand: {
